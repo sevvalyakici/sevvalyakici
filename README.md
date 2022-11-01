@@ -1,4 +1,4 @@
-                                                              - 👋 Hi, I’m @sevvalyakici
+                                                     - 👋 Hi, I’m @sevvalyakici
 
 
 <!---
