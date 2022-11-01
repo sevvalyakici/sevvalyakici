@@ -2,7 +2,7 @@
                                                       📍 Live in Istanbul
                                                      
                                                      
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sevvalyakici&theme=dracula)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sevvalyakici&theme=dracula)](https://git.io/streak-stats)
 
 
 
