@@ -2,16 +2,10 @@
                                                      
               
               
-                                        https://github-readme-streak-stats.herokuapp.com/?user=sevvalyakici
-					
-					
-					
-					
-					
-					
+                                        
+				
 					
    **IDE**               
-   
       [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sevvalyakici&theme=dracula&hide_border=yanl%C4%B1%C5%9F)](https://git.io/streak-stats)
       ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
       ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -21,7 +15,8 @@
       ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
       ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
-**LANGUAGES**
+    **LANGUAGES**
+
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 	  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
